@@ -1,0 +1,2 @@
+export const client_id = { your spotify client_id}
+export const KEY = { your youtube data key}
